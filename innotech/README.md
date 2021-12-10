@@ -1,6 +1,6 @@
 # innotech
 
-A new Flutter application.
+Mobile app for iNNOTRASH
 
 ## Getting Started
 

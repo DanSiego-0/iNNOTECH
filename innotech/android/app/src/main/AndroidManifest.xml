@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.innotech">
+    package="com.iNNOTECHtas.innotech">
    <application
         android:label="innotech"
         android:name="${applicationName}"

@@ -1,4 +1,4 @@
-package com.example.innotech
+package com.iNNOTECHtas.innotech
 
 import io.flutter.embedding.android.FlutterActivity
 
